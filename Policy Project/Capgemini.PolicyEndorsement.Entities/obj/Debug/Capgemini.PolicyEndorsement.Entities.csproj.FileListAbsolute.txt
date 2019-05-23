@@ -1,0 +1,11 @@
+C:\C#\MINIPROJECT\Capgemini.PolicyEndorsement.Entities\bin\Debug\Capgemini.PolicyEndorsement.Entities.dll
+C:\C#\MINIPROJECT\Capgemini.PolicyEndorsement.Entities\bin\Debug\Capgemini.PolicyEndorsement.Entities.pdb
+C:\C#\MINIPROJECT\Capgemini.PolicyEndorsement.Entities\obj\Debug\Capgemini.PolicyEndorsement.Entities.csproj.CoreCompileInputs.cache
+C:\C#\MINIPROJECT\Capgemini.PolicyEndorsement.Entities\obj\Debug\Capgemini.PolicyEndorsement.Entities.dll
+C:\C#\MINIPROJECT\Capgemini.PolicyEndorsement.Entities\obj\Debug\Capgemini.PolicyEndorsement.Entities.pdb
+C:\MiniProject\Policy Project\Capgemini.PolicyEndorsement.Entities\bin\Debug\Capgemini.PolicyEndorsement.Entities.dll
+C:\MiniProject\Policy Project\Capgemini.PolicyEndorsement.Entities\bin\Debug\Capgemini.PolicyEndorsement.Entities.pdb
+C:\MiniProject\Policy Project\Capgemini.PolicyEndorsement.Entities\obj\Debug\Capgemini.PolicyEndorsement.Entities.csprojAssemblyReference.cache
+C:\MiniProject\Policy Project\Capgemini.PolicyEndorsement.Entities\obj\Debug\Capgemini.PolicyEndorsement.Entities.csproj.CoreCompileInputs.cache
+C:\MiniProject\Policy Project\Capgemini.PolicyEndorsement.Entities\obj\Debug\Capgemini.PolicyEndorsement.Entities.dll
+C:\MiniProject\Policy Project\Capgemini.PolicyEndorsement.Entities\obj\Debug\Capgemini.PolicyEndorsement.Entities.pdb
