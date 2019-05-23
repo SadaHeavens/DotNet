@@ -1,0 +1,66 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Web;
+using System.Web.UI;
+using System.Web.UI.WebControls;
+using System.Configuration;
+using System.Data.SqlClient;
+using System.Data;
+
+namespace WebApplication1
+{
+    public partial class EmployDemo : System.Web.UI.Page
+    {
+        SqlConnection connection;
+        SqlDataAdapter adapter;
+        DataSet dataset;
+        int i, count;
+        protected void Page_Load(object sender, EventArgs e)
+        {
+            string strcon = ConfigurationManager.ConnectionStrings["Sqlpracticeconn"].ConnectionString;
+            connection = new SqlConnection(strcon);
+            adapter = new SqlDataAdapter("SELECT*FROM Emp", connection);
+            dataset = new DataSet();
+            adapter.Fill(dataset, "Emp");
+            i = 0;
+            count = dataset.Tables["Emp"].Rows.Count;
+            ShowEmploy();
+        }
+
+        private void ShowEmploy()
+        {
+            txtEmployno.Text = dataset.Tables["Emp"].Rows[i]["Empno"].ToString();
+            txtEmployname.Text = dataset.Tables["Emp"].Rows[i]["Nam"].ToString();
+            txtDepartment.Text = dataset.Tables["Emp"].Rows[i]["Dept"].ToString();
+            txtDesignation.Text = dataset.Tables["Emp"].Rows[i]["Desig"].ToString();
+            txtBasic.Text = dataset.Tables["Emp"].Rows[i]["Basic"].ToString();
+        }
+
+        protected void btnNext_Click(object sender, EventArgs e)
+        {
+            i = i++;
+            ShowEmploy();
+        }
+
+        protected void btnLast_Click(object sender, EventArgs e)
+        {
+            i = count - 1;
+            ShowEmploy();
+
+        }
+
+        protected void btnPrevious_Click(object sender, EventArgs e)
+        {
+            i--;
+            ShowEmploy();
+
+        }
+
+        protected void btnFirst_Click(object sender, EventArgs e)
+        {
+            i = 0;
+            ShowEmploy();
+        }
+    }
+}
