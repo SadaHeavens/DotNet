@@ -1,0 +1,48 @@
+C:\C#\MINIPROJECT\Capgemini.PolicyEndorsement.BusinessLayer\bin\Debug\Capgemini.PolicyEndorsement.BusinessLayer.dll
+C:\C#\MINIPROJECT\Capgemini.PolicyEndorsement.BusinessLayer\bin\Debug\Capgemini.PolicyEndorsement.BusinessLayer.pdb
+C:\C#\MINIPROJECT\Capgemini.PolicyEndorsement.BusinessLayer\bin\Debug\Capgemini.PolicyEndorsement.DataAccessLayer.dll
+C:\C#\MINIPROJECT\Capgemini.PolicyEndorsement.BusinessLayer\bin\Debug\Capgemini.PolicyEndorsement.Entities.dll
+C:\C#\MINIPROJECT\Capgemini.PolicyEndorsement.BusinessLayer\bin\Debug\Capgemini.PolicyEndorsement.Exceptions.dll
+C:\C#\MINIPROJECT\Capgemini.PolicyEndorsement.BusinessLayer\bin\Debug\EntityFramework.dll
+C:\C#\MINIPROJECT\Capgemini.PolicyEndorsement.BusinessLayer\bin\Debug\Capgemini.PolicyEndorsement.DataAccessLayer.pdb
+C:\C#\MINIPROJECT\Capgemini.PolicyEndorsement.BusinessLayer\bin\Debug\Capgemini.PolicyEndorsement.DataAccessLayer.dll.config
+C:\C#\MINIPROJECT\Capgemini.PolicyEndorsement.BusinessLayer\bin\Debug\Capgemini.PolicyEndorsement.Entities.pdb
+C:\C#\MINIPROJECT\Capgemini.PolicyEndorsement.BusinessLayer\bin\Debug\Capgemini.PolicyEndorsement.Exceptions.pdb
+C:\C#\MINIPROJECT\Capgemini.PolicyEndorsement.BusinessLayer\bin\Debug\EntityFramework.xml
+C:\C#\MINIPROJECT\Capgemini.PolicyEndorsement.BusinessLayer\obj\Debug\Capgemini.PolicyEndorsement.BusinessLayer.csproj.CoreCompileInputs.cache
+C:\C#\MINIPROJECT\Capgemini.PolicyEndorsement.BusinessLayer\obj\Debug\Capgemini.PolicyEndorsement.BusinessLayer.csproj.CopyComplete
+C:\C#\MINIPROJECT\Capgemini.PolicyEndorsement.BusinessLayer\obj\Debug\Capgemini.PolicyEndorsement.BusinessLayer.dll
+C:\C#\MINIPROJECT\Capgemini.PolicyEndorsement.BusinessLayer\obj\Debug\Capgemini.PolicyEndorsement.BusinessLayer.pdb
+C:\C#\MINIPROJECT\Capgemini.PolicyEndorsement.BusinessLayer\obj\Debug\Capgemini.PolicyEndorsement.BusinessLayer.csprojAssemblyReference.cache
+C:\C#\MINIPROJECT - Copy\Capgemini.PolicyEndorsement.BusinessLayer\bin\Debug\Capgemini.PolicyEndorsement.BusinessLayer.dll
+C:\C#\MINIPROJECT - Copy\Capgemini.PolicyEndorsement.BusinessLayer\bin\Debug\Capgemini.PolicyEndorsement.BusinessLayer.pdb
+C:\C#\MINIPROJECT - Copy\Capgemini.PolicyEndorsement.BusinessLayer\bin\Debug\Capgemini.PolicyEndorsement.DataAccessLayer.dll
+C:\C#\MINIPROJECT - Copy\Capgemini.PolicyEndorsement.BusinessLayer\bin\Debug\Capgemini.PolicyEndorsement.Entities.dll
+C:\C#\MINIPROJECT - Copy\Capgemini.PolicyEndorsement.BusinessLayer\bin\Debug\Capgemini.PolicyEndorsement.Exceptions.dll
+C:\C#\MINIPROJECT - Copy\Capgemini.PolicyEndorsement.BusinessLayer\bin\Debug\EntityFramework.dll
+C:\C#\MINIPROJECT - Copy\Capgemini.PolicyEndorsement.BusinessLayer\bin\Debug\Capgemini.PolicyEndorsement.DataAccessLayer.pdb
+C:\C#\MINIPROJECT - Copy\Capgemini.PolicyEndorsement.BusinessLayer\bin\Debug\Capgemini.PolicyEndorsement.DataAccessLayer.dll.config
+C:\C#\MINIPROJECT - Copy\Capgemini.PolicyEndorsement.BusinessLayer\bin\Debug\Capgemini.PolicyEndorsement.Entities.pdb
+C:\C#\MINIPROJECT - Copy\Capgemini.PolicyEndorsement.BusinessLayer\bin\Debug\Capgemini.PolicyEndorsement.Exceptions.pdb
+C:\C#\MINIPROJECT - Copy\Capgemini.PolicyEndorsement.BusinessLayer\bin\Debug\EntityFramework.xml
+C:\C#\MINIPROJECT - Copy\Capgemini.PolicyEndorsement.BusinessLayer\obj\Debug\Capgemini.PolicyEndorsement.BusinessLayer.csprojAssemblyReference.cache
+C:\C#\MINIPROJECT - Copy\Capgemini.PolicyEndorsement.BusinessLayer\obj\Debug\Capgemini.PolicyEndorsement.BusinessLayer.csproj.CoreCompileInputs.cache
+C:\C#\MINIPROJECT - Copy\Capgemini.PolicyEndorsement.BusinessLayer\obj\Debug\Capgemini.PolicyEndorsement.BusinessLayer.csproj.CopyComplete
+C:\C#\MINIPROJECT - Copy\Capgemini.PolicyEndorsement.BusinessLayer\obj\Debug\Capgemini.PolicyEndorsement.BusinessLayer.dll
+C:\C#\MINIPROJECT - Copy\Capgemini.PolicyEndorsement.BusinessLayer\obj\Debug\Capgemini.PolicyEndorsement.BusinessLayer.pdb
+C:\MiniProject\Policy Project\Capgemini.PolicyEndorsement.BusinessLayer\bin\Debug\Capgemini.PolicyEndorsement.BusinessLayer.dll
+C:\MiniProject\Policy Project\Capgemini.PolicyEndorsement.BusinessLayer\bin\Debug\Capgemini.PolicyEndorsement.BusinessLayer.pdb
+C:\MiniProject\Policy Project\Capgemini.PolicyEndorsement.BusinessLayer\bin\Debug\Capgemini.PolicyEndorsement.DataAccessLayer.dll
+C:\MiniProject\Policy Project\Capgemini.PolicyEndorsement.BusinessLayer\bin\Debug\Capgemini.PolicyEndorsement.Entities.dll
+C:\MiniProject\Policy Project\Capgemini.PolicyEndorsement.BusinessLayer\bin\Debug\Capgemini.PolicyEndorsement.Exceptions.dll
+C:\MiniProject\Policy Project\Capgemini.PolicyEndorsement.BusinessLayer\bin\Debug\EntityFramework.dll
+C:\MiniProject\Policy Project\Capgemini.PolicyEndorsement.BusinessLayer\bin\Debug\Capgemini.PolicyEndorsement.DataAccessLayer.pdb
+C:\MiniProject\Policy Project\Capgemini.PolicyEndorsement.BusinessLayer\bin\Debug\Capgemini.PolicyEndorsement.DataAccessLayer.dll.config
+C:\MiniProject\Policy Project\Capgemini.PolicyEndorsement.BusinessLayer\bin\Debug\Capgemini.PolicyEndorsement.Entities.pdb
+C:\MiniProject\Policy Project\Capgemini.PolicyEndorsement.BusinessLayer\bin\Debug\Capgemini.PolicyEndorsement.Exceptions.pdb
+C:\MiniProject\Policy Project\Capgemini.PolicyEndorsement.BusinessLayer\bin\Debug\EntityFramework.xml
+C:\MiniProject\Policy Project\Capgemini.PolicyEndorsement.BusinessLayer\obj\Debug\Capgemini.PolicyEndorsement.BusinessLayer.csprojAssemblyReference.cache
+C:\MiniProject\Policy Project\Capgemini.PolicyEndorsement.BusinessLayer\obj\Debug\Capgemini.PolicyEndorsement.BusinessLayer.csproj.CoreCompileInputs.cache
+C:\MiniProject\Policy Project\Capgemini.PolicyEndorsement.BusinessLayer\obj\Debug\Capgemini.PolicyEndorsement.BusinessLayer.csproj.CopyComplete
+C:\MiniProject\Policy Project\Capgemini.PolicyEndorsement.BusinessLayer\obj\Debug\Capgemini.PolicyEndorsement.BusinessLayer.dll
+C:\MiniProject\Policy Project\Capgemini.PolicyEndorsement.BusinessLayer\obj\Debug\Capgemini.PolicyEndorsement.BusinessLayer.pdb

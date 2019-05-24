@@ -1,0 +1,15 @@
+﻿<Window x:Class="Capgemini.PolicyEndorsement.Application.ProjectStartupPage"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Capgemini.PolicyEndorsement.Application"
+        mc:Ignorable="d"
+        Title="ProjectStartupPage" Height="450" Width="800">
+    <Grid>
+        <Image Source="Policy5.jpg" HorizontalAlignment="Left" Height="409" Margin="10,10,0,0" VerticalAlignment="Top" Width="782"/>
+        <Label Content="Policy Endorsement System" FontSize="30" FontStyle="Normal" HorizontalAlignment="Left" Margin="374,54,0,0" VerticalAlignment="Top" RenderTransformOrigin="-0.983,-1.608" Width="380" Height="75"/>
+        <Button Content="Sign in" FontSize="20"  HorizontalAlignment="Left" Margin="374,170,0,0" VerticalAlignment="Top" Width="112" Height="40" Click="Button_Click"/>
+
+    </Grid>
+</Window>
